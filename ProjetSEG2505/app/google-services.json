@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891005047815",
+    "firebase_url": "https://seg2505-projet-224f1-default-rtdb.firebaseio.com",
+    "project_id": "seg2505-projet-224f1",
+    "storage_bucket": "seg2505-projet-224f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891005047815:android:eb4b0c599a41f0cc4806a2",
+        "android_client_info": {
+          "package_name": "com.lpapineau.ProjetSEG2505"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891005047815-upifmo1dap1taodcgp8cldda9gu0skjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIt4FGSLe-XihaH1Ih0WAWJzxW3ResUB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891005047815-upifmo1dap1taodcgp8cldda9gu0skjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
